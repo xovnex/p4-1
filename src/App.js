@@ -54,7 +54,7 @@ function App() {
       </section>
 
       <footer>
-        <p>&copy; 2024 - Todos los derechos reservados a Ale.</p>
+        <p>&copy; 2024 - Todos los derechos reservados a nosotros</p>
       </footer>
     </>
   );
